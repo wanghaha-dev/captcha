@@ -1,4 +1,4 @@
-package ic
+package captcha
 
 import (
 	"bytes"
